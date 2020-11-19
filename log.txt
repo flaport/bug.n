@@ -1,0 +1,718 @@
+2020-11-19 12:10:59 ====== Initializing ======
+2020-11-19 12:10:59 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:10:59 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:10:59 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:11:00 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:11:00 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:11:00 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:11:00 ====== Running ======
+2020-11-19 12:15:26 ====== Cleaning up ======
+2020-11-19 12:15:26 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:15:26 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:15:26 ====== Exiting bug.n ======
+2020-11-19 12:17:53 ====== Initializing ======
+2020-11-19 12:17:54 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:17:54 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:17:54 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:17:54 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:17:54 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:17:54 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:17:54 Window ahk_id 0x1077a process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:17:54 Window ahk_id 0x1071a process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:17:54 Window ahk_id 0x107d0 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:17:54 ====== Running ======
+2020-11-19 12:22:21 ====== Cleaning up ======
+2020-11-19 12:22:21 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:22:21 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:22:21 ====== Exiting bug.n ======
+2020-11-19 12:27:44 ====== Initializing ======
+2020-11-19 12:27:45 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:27:45 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:27:45 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:27:45 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:27:45 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:27:45 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:27:45 Window ahk_id 0x20268 process '' doesn't match expected 'firefox.exe', forgetting this window
+2020-11-19 12:27:45 Window ahk_id 0x2014e process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 12:27:45 Window ahk_id 0x40616 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 12:27:45 Window ahk_id 0x207a0 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:27:45 Window ahk_id 0x50750 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:27:45 ====== Running ======
+2020-11-19 12:30:18 ====== Cleaning up ======
+2020-11-19 12:30:18 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:30:18 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:30:18 ====== Exiting bug.n ======
+2020-11-19 12:35:44 ====== Initializing ======
+2020-11-19 12:35:45 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:35:45 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:35:45 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:35:45 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:35:45 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:35:45 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:35:45 Window ahk_id 0x10434 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:35:45 Window ahk_id 0x1039e process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:35:45 Window ahk_id 0x3058c process '' doesn't match expected 'rundll32.exe', forgetting this window
+2020-11-19 12:35:46 ====== Running ======
+2020-11-19 12:35:55 ====== Cleaning up ======
+2020-11-19 12:35:55 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:35:55 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:35:55 ====== Exiting bug.n ======
+2020-11-19 12:38:23 ====== Initializing ======
+2020-11-19 12:38:23 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:38:23 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:38:23 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:38:24 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:38:24 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:38:24 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:38:24 Window ahk_id 0x1040e process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2020-11-19 12:38:24 Window ahk_id 0x105c2 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 12:38:24 Window ahk_id 0x70766 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:38:24 Window ahk_id 0xb0784 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:38:24 ====== Running ======
+2020-11-19 12:38:32 ====== Cleaning up ======
+2020-11-19 12:38:32 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:38:32 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:38:32 ====== Exiting bug.n ======
+2020-11-19 12:38:36 ====== Initializing ======
+2020-11-19 12:38:36 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:38:36 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:38:36 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:38:37 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:38:37 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:38:37 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:38:37 Window ahk_id 0x2063c process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:38:37 Window ahk_id 0x305da process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:38:37 Window ahk_id 0x1f03ee process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:38:37 ====== Running ======
+2020-11-19 12:38:51 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:39:08 ====== Cleaning up ======
+2020-11-19 12:39:08 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:39:08 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:39:08 ====== Exiting bug.n ======
+2020-11-19 12:39:13 ====== Initializing ======
+2020-11-19 12:39:13 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:39:13 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 0, w: , h: .
+2020-11-19 12:39:13 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:39:14 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:39:14 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:39:14 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:39:14 Window ahk_id 0x40640 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:39:14 Window ahk_id 0x70752 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:39:14 Window ahk_id 0x240470 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:39:14 ====== Running ======
+2020-11-19 12:39:25 ====== Cleaning up ======
+2020-11-19 12:39:25 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:39:25 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:39:25 ====== Exiting bug.n ======
+2020-11-19 12:40:40 ====== Initializing ======
+2020-11-19 12:40:40 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:40:40 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 0, w: , h: .
+2020-11-19 12:40:40 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:40:40 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:40:41 Window ahk_id 0x100796 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:40:41 Window ahk_id 0x13045a process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:40:41 ====== Running ======
+2020-11-19 12:40:45 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:40:46 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:40:46 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:40:47 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:40:49 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:40:49 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:40:50 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:40:50 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:40:55 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:40:56 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:40:56 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:40:57 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:40:58 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:42:34 ====== Cleaning up ======
+2020-11-19 12:42:34 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:42:34 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:42:35 ====== Exiting bug.n ======
+2020-11-19 12:42:40 ====== Initializing ======
+2020-11-19 12:42:40 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:42:40 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:42:41 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:42:41 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:42:41 Window ahk_id 0xd078e process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:42:41 Window ahk_id 0x605ee process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:42:41 Window ahk_id 0x30602 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:42:41 ====== Running ======
+2020-11-19 12:42:44 ====== Cleaning up ======
+2020-11-19 12:42:44 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:42:44 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:42:44 ====== Exiting bug.n ======
+2020-11-19 12:45:45 ====== Initializing ======
+2020-11-19 12:45:46 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:45:46 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:45:46 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:45:46 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 12:45:47 ====== Running ======
+2020-11-19 12:49:00 ====== Cleaning up ======
+2020-11-19 12:49:00 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:49:00 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 12:49:00 ====== Exiting bug.n ======
+2020-11-19 12:55:12 ====== Initializing ======
+2020-11-19 12:55:12 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:55:12 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:55:12 View (2, 1) is no longer available (10)
+2020-11-19 12:55:12 View (2, 2) is no longer available (10)
+2020-11-19 12:55:12 View (2, 3) is no longer available (10)
+2020-11-19 12:55:12 View (2, 4) is no longer available (10)
+2020-11-19 12:55:12 View (2, 5) is no longer available (10)
+2020-11-19 12:55:12 View (2, 6) is no longer available (10)
+2020-11-19 12:55:12 View (2, 7) is no longer available (10)
+2020-11-19 12:55:12 View (2, 8) is no longer available (10)
+2020-11-19 12:55:12 View (2, 9) is no longer available (10)
+2020-11-19 12:55:12 Window ahk_id 0x4078c process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 12:55:12 Window ahk_id 0xa03de process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 12:55:12 Window ahk_id 0x3064a process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 12:55:12 Window ahk_id 0x100f4 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 12:55:12 Window ahk_id 0x7063c process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:55:12 Window ahk_id 0xb079e process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:55:12 ====== Running ======
+2020-11-19 12:55:29 ====== Cleaning up ======
+2020-11-19 12:55:29 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:55:29 ====== Exiting bug.n ======
+2020-11-19 12:55:40 ====== Initializing ======
+2020-11-19 12:55:40 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:55:40 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:55:40 Window ahk_id 0x80106 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:55:41 ====== Running ======
+2020-11-19 12:55:54 ====== Cleaning up ======
+2020-11-19 12:55:54 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:55:54 ====== Exiting bug.n ======
+2020-11-19 12:56:46 ====== Initializing ======
+2020-11-19 12:56:46 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:56:46 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:56:46 Window ahk_id 0x21076c process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:56:46 ====== Running ======
+2020-11-19 12:57:00 ====== Cleaning up ======
+2020-11-19 12:57:00 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:57:00 ====== Exiting bug.n ======
+2020-11-19 12:57:53 ====== Initializing ======
+2020-11-19 12:57:53 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:57:53 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:57:53 Window ahk_id 0x700f6 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:57:53 ====== Running ======
+2020-11-19 12:58:43 ====== Cleaning up ======
+2020-11-19 12:58:43 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:58:43 ====== Exiting bug.n ======
+2020-11-19 12:59:00 ====== Initializing ======
+2020-11-19 12:59:00 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:59:00 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:59:00 Window ahk_id 0x70612 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:59:00 Window ahk_id 0xe0106 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:59:00 ====== Running ======
+2020-11-19 12:59:11 ====== Cleaning up ======
+2020-11-19 12:59:11 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:59:11 ====== Exiting bug.n ======
+2020-11-19 12:59:38 ====== Initializing ======
+2020-11-19 12:59:38 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 12:59:38 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 12:59:38 Window ahk_id 0xb04cc process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 12:59:38 ====== Running ======
+2020-11-19 13:06:34 ====== Cleaning up ======
+2020-11-19 13:06:34 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:06:34 ====== Exiting bug.n ======
+2020-11-19 13:06:42 ====== Initializing ======
+2020-11-19 13:06:42 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:06:42 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:06:42 Window ahk_id 0x190638 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:06:42 Window ahk_id 0x904ae process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:06:42 ====== Running ======
+2020-11-19 13:08:22 ====== Cleaning up ======
+2020-11-19 13:08:22 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:08:22 ====== Exiting bug.n ======
+2020-11-19 13:11:54 ====== Initializing ======
+2020-11-19 13:11:55 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:11:55 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:11:55 Window ahk_id 0x110552 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:11:55 ====== Running ======
+2020-11-19 13:18:13 ====== Cleaning up ======
+2020-11-19 13:18:13 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:18:13 ====== Exiting bug.n ======
+2020-11-19 13:18:17 ====== Initializing ======
+2020-11-19 13:18:17 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:18:17 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:18:17 Window ahk_id 0x7010e process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:18:17 ====== Running ======
+2020-11-19 13:18:22 ====== Cleaning up ======
+2020-11-19 13:18:22 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:18:22 ====== Exiting bug.n ======
+2020-11-19 13:18:24 ====== Initializing ======
+2020-11-19 13:18:24 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:18:24 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:18:24 Window ahk_id 0x1305da process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:18:24 Window ahk_id 0x4017e process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:18:24 ====== Running ======
+2020-11-19 13:18:46 ====== Cleaning up ======
+2020-11-19 13:18:46 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:18:46 ====== Exiting bug.n ======
+2020-11-19 13:19:04 ====== Initializing ======
+2020-11-19 13:19:04 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:19:04 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:19:04 Window ahk_id 0x60108 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:19:04 ====== Running ======
+2020-11-19 13:19:34 ====== Cleaning up ======
+2020-11-19 13:19:34 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:19:34 ====== Exiting bug.n ======
+2020-11-19 13:19:46 ====== Initializing ======
+2020-11-19 13:19:46 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:19:46 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:19:46 Window ahk_id 0x110048 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:19:46 ====== Running ======
+2020-11-19 13:20:08 ====== Cleaning up ======
+2020-11-19 13:20:08 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:20:08 ====== Exiting bug.n ======
+2020-11-19 13:20:12 ====== Initializing ======
+2020-11-19 13:20:12 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:20:12 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:20:12 Window ahk_id 0x8010a process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:20:12 ====== Running ======
+2020-11-19 13:20:46 ====== Cleaning up ======
+2020-11-19 13:20:46 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:20:46 ====== Exiting bug.n ======
+2020-11-19 13:21:06 ====== Initializing ======
+2020-11-19 13:21:06 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:21:06 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:21:06 Window ahk_id 0xb071e process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:21:06 ====== Running ======
+2020-11-19 13:27:42 ====== Cleaning up ======
+2020-11-19 13:27:42 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:27:42 ====== Exiting bug.n ======
+2020-11-19 13:27:44 ====== Initializing ======
+2020-11-19 13:27:44 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:27:44 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:27:44 Window ahk_id 0xb0174 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:27:44 ====== Running ======
+2020-11-19 13:30:54 ====== Cleaning up ======
+2020-11-19 13:30:54 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:30:54 ====== Exiting bug.n ======
+2020-11-19 13:30:56 ====== Initializing ======
+2020-11-19 13:30:56 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:30:56 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:30:56 Window ahk_id 0x1103b8 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:30:57 ====== Running ======
+2020-11-19 13:32:11 ====== Cleaning up ======
+2020-11-19 13:32:11 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:32:11 ====== Exiting bug.n ======
+2020-11-19 13:32:51 ====== Initializing ======
+2020-11-19 13:32:51 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:32:51 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:32:51 Window ahk_id 0x90180 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:32:51 ====== Running ======
+2020-11-19 13:34:18 ====== Cleaning up ======
+2020-11-19 13:34:18 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:34:18 ====== Exiting bug.n ======
+2020-11-19 13:34:41 ====== Initializing ======
+2020-11-19 13:34:42 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:34:42 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:34:42 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 13:34:42 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 13:34:42 Window ahk_id 0x1d0106 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:34:42 ====== Running ======
+2020-11-19 13:37:11 ====== Cleaning up ======
+2020-11-19 13:37:11 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:37:11 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 13:37:11 ====== Exiting bug.n ======
+2020-11-19 13:37:13 ====== Initializing ======
+2020-11-19 13:37:14 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:37:14 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:37:14 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 13:37:14 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 13:37:14 Window ahk_id 0x905e8 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:37:14 Window ahk_id 0x30065e process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 13:37:14 ====== Running ======
+2020-11-19 13:37:16 ====== Cleaning up ======
+2020-11-19 13:37:16 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:37:16 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 13:37:16 ====== Exiting bug.n ======
+2020-11-19 13:37:17 ====== Initializing ======
+2020-11-19 13:37:17 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:37:17 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 13:37:17 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 13:37:17 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 13:37:17 ====== Running ======
+2020-11-19 13:48:04 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 13:48:05 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:12:14 ====== Cleaning up ======
+2020-11-19 14:12:14 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:12:14 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:12:14 ====== Exiting bug.n ======
+2020-11-19 14:12:19 ====== Initializing ======
+2020-11-19 14:12:19 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:12:19 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:12:20 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:12:20 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:12:20 Window ahk_id 0x2f077a process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:12:20 Window ahk_id 0x70492 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:12:20 ====== Running ======
+2020-11-19 14:13:57 ====== Cleaning up ======
+2020-11-19 14:13:57 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:13:57 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:13:57 ====== Exiting bug.n ======
+2020-11-19 14:14:01 ====== Initializing ======
+2020-11-19 14:14:02 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:14:02 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:14:02 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:14:02 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:14:02 Window ahk_id 0x70436 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:14:02 Window ahk_id 0xb04c4 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:14:02 ====== Running ======
+2020-11-19 14:14:51 ====== Cleaning up ======
+2020-11-19 14:14:51 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:14:51 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:14:51 ====== Exiting bug.n ======
+2020-11-19 14:15:01 ====== Initializing ======
+2020-11-19 14:15:02 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:15:02 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:15:02 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:15:02 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:15:02 Window ahk_id 0x3d06b8 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:15:02 Window ahk_id 0x1305c0 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:15:02 ====== Running ======
+2020-11-19 14:15:24 ====== Cleaning up ======
+2020-11-19 14:15:25 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:15:25 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:15:25 ====== Exiting bug.n ======
+2020-11-19 14:15:30 ====== Initializing ======
+2020-11-19 14:15:31 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:15:31 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:15:31 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:15:31 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:15:31 Window ahk_id 0x1106d2 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:15:31 Window ahk_id 0xf0626 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:15:31 ====== Running ======
+2020-11-19 14:17:31 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:17:32 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:17:33 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:17:34 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:18:16 ====== Cleaning up ======
+2020-11-19 14:18:16 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:18:16 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:18:16 ====== Exiting bug.n ======
+2020-11-19 14:18:22 ====== Initializing ======
+2020-11-19 14:18:22 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:18:22 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:18:23 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:18:23 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:18:23 Window ahk_id 0x905ec process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:18:23 Window ahk_id 0xe048c process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:18:23 ====== Running ======
+2020-11-19 14:20:39 ====== Cleaning up ======
+2020-11-19 14:20:39 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:20:39 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:20:39 ====== Exiting bug.n ======
+2020-11-19 14:20:44 ====== Initializing ======
+2020-11-19 14:20:45 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:20:45 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:20:45 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:20:45 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:20:45 Window ahk_id 0x25067c process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:20:45 Window ahk_id 0x2700f6 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:20:45 ====== Running ======
+2020-11-19 14:22:09 ====== Cleaning up ======
+2020-11-19 14:22:09 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:22:09 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:22:09 ====== Exiting bug.n ======
+2020-11-19 14:22:15 ====== Initializing ======
+2020-11-19 14:22:15 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:22:15 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:22:16 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:22:16 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:22:16 Window ahk_id 0x13075c process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:22:16 Window ahk_id 0xc05ec process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:22:16 ====== Running ======
+2020-11-19 14:23:04 ====== Cleaning up ======
+2020-11-19 14:23:04 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:23:04 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:23:04 ====== Exiting bug.n ======
+2020-11-19 14:24:19 ====== Initializing ======
+2020-11-19 14:24:19 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:24:19 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:24:19 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:24:19 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:24:19 Window ahk_id 0x100388 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:24:19 Window ahk_id 0xf0436 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:24:19 Window ahk_id 0x37077a process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:24:20 ====== Running ======
+2020-11-19 14:27:08 ====== Cleaning up ======
+2020-11-19 14:27:08 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:27:08 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:27:08 ====== Exiting bug.n ======
+2020-11-19 14:27:12 ====== Initializing ======
+2020-11-19 14:27:12 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:27:12 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:27:13 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:27:13 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:27:13 Window ahk_id 0x180432 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:27:13 Window ahk_id 0x180048 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:27:13 ====== Running ======
+2020-11-19 14:27:24 ====== Cleaning up ======
+2020-11-19 14:27:24 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:27:24 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:27:24 ====== Exiting bug.n ======
+2020-11-19 14:27:29 ====== Initializing ======
+2020-11-19 14:27:30 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:27:30 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:27:30 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:27:30 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:27:30 Window ahk_id 0xf0492 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:27:30 Window ahk_id 0x130460 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:27:30 ====== Running ======
+2020-11-19 14:28:32 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:28:33 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:28:34 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:31:36 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:31:41 ====== Cleaning up ======
+2020-11-19 14:31:41 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:31:41 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:31:41 ====== Exiting bug.n ======
+2020-11-19 14:32:42 ====== Initializing ======
+2020-11-19 14:32:43 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:32:43 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:32:43 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:32:43 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:32:43 Window ahk_id 0x20118 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 14:32:43 Window ahk_id 0x2002c process 'ctfmon.exe' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 14:32:43 Window ahk_id 0x80036 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 14:32:43 Window ahk_id 0x805e2 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 14:32:43 Window ahk_id 0x160634 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 14:32:43 Window ahk_id 0x2506a8 process '' doesn't match expected 'firefox.exe', forgetting this window
+2020-11-19 14:32:43 Window ahk_id 0x1305e6 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:32:43 Window ahk_id 0xe017e process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:32:43 ====== Running ======
+2020-11-19 14:34:00 ====== Cleaning up ======
+2020-11-19 14:34:00 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:34:00 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:34:00 ====== Exiting bug.n ======
+2020-11-19 14:50:54 ====== Initializing ======
+2020-11-19 14:50:54 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:50:54 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:50:55 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:50:55 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:50:55 Window ahk_id 0x2014c process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 14:50:55 Window ahk_id 0x102da process 'WavesSvc64.exe' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:50:55 Window ahk_id 0x30284 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:50:55 Window ahk_id 0x20074 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 14:50:55 Window ahk_id 0x400a0 process '' doesn't match expected 'ubuntu2004.exe', forgetting this window
+2020-11-19 14:50:55 Window ahk_id 0x1042e process 'pass-winmenu.exe' doesn't match expected 'atmgr.exe', forgetting this window
+2020-11-19 14:50:55 Window ahk_id 0x10436 process '' doesn't match expected 'firefox.exe', forgetting this window
+2020-11-19 14:50:55 ====== Running ======
+2020-11-19 14:51:21 ====== Cleaning up ======
+2020-11-19 14:51:21 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:51:22 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:51:22 ====== Exiting bug.n ======
+2020-11-19 14:51:25 ====== Initializing ======
+2020-11-19 14:51:25 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:51:25 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:51:25 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:51:25 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:51:26 Window ahk_id 0x1072a process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:51:26 Window ahk_id 0xf0494 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:51:26 ====== Running ======
+2020-11-19 14:51:36 ====== Cleaning up ======
+2020-11-19 14:51:37 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:51:37 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:51:37 ====== Exiting bug.n ======
+2020-11-19 14:52:38 ====== Initializing ======
+2020-11-19 14:52:38 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:52:38 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:52:38 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:52:38 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:52:39 Window ahk_id 0x5066e process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 14:52:39 Window ahk_id 0x2077c process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:52:39 Window ahk_id 0x30724 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:52:39 Window ahk_id 0xa05e2 process '' doesn't match expected 'ubuntu2004.exe', forgetting this window
+2020-11-19 14:52:39 ====== Running ======
+2020-11-19 14:53:10 ====== Cleaning up ======
+2020-11-19 14:53:10 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:53:10 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:53:10 ====== Exiting bug.n ======
+2020-11-19 14:53:10 ====== Initializing ======
+2020-11-19 14:53:11 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:53:11 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:53:11 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:53:11 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:53:11 Window ahk_id 0x3061a process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:53:11 Window ahk_id 0x210676 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:53:12 ====== Running ======
+2020-11-19 14:53:46 ====== Cleaning up ======
+2020-11-19 14:53:46 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:53:46 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:53:46 ====== Exiting bug.n ======
+2020-11-19 14:53:59 ====== Initializing ======
+2020-11-19 14:53:59 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:53:59 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 14:53:59 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:53:59 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 14:54:00 Window ahk_id 0x70792 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:54:00 Window ahk_id 0x90682 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 14:54:00 Window ahk_id 0x504b4 process '' doesn't match expected 'ubuntu2004.exe', forgetting this window
+2020-11-19 14:54:00 ====== Running ======
+2020-11-19 14:54:03 ====== Cleaning up ======
+2020-11-19 14:54:03 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 14:54:03 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 14:54:03 ====== Exiting bug.n ======
+2020-11-19 15:01:40 ====== Initializing ======
+2020-11-19 15:01:40 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:01:40 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 15:01:41 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:01:41 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 15:01:41 Window ahk_id 0x10128 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x6007a process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x501ce process '' doesn't match expected 'firefox.exe', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x206be process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x106d4 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x20144 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x705f6 process '' doesn't match expected 'VSCodium.exe', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x90438 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x20022 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x10120 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x905b4 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x60614 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:01:41 Window ahk_id 0x50616 process '' doesn't match expected 'ubuntu2004.exe', forgetting this window
+2020-11-19 15:01:41 ====== Running ======
+2020-11-19 15:02:04 ====== Cleaning up ======
+2020-11-19 15:02:04 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:02:04 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:02:04 ====== Exiting bug.n ======
+2020-11-19 15:02:04 ====== Initializing ======
+2020-11-19 15:02:04 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:02:04 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 15:02:05 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:02:05 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 15:02:05 Window ahk_id 0x6072c process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:02:05 Window ahk_id 0xe0522 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:02:05 ====== Running ======
+2020-11-19 15:02:07 ====== Cleaning up ======
+2020-11-19 15:02:07 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:02:07 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:02:07 ====== Exiting bug.n ======
+2020-11-19 15:02:07 ====== Initializing ======
+2020-11-19 15:02:07 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:02:07 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 15:02:08 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:02:08 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 15:02:08 Window ahk_id 0x30858 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:02:08 Window ahk_id 0x407d2 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:02:08 ====== Running ======
+2020-11-19 15:02:10 ====== Cleaning up ======
+2020-11-19 15:02:10 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:02:10 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:02:10 ====== Exiting bug.n ======
+2020-11-19 15:02:23 ====== Initializing ======
+2020-11-19 15:02:23 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:02:23 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 15:02:23 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:02:23 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 15:02:23 Window ahk_id 0x70630 process '' doesn't match expected 'VSCodium.exe', forgetting this window
+2020-11-19 15:02:23 Window ahk_id 0x20854 process '' doesn't match expected 'wsl.exe', forgetting this window
+2020-11-19 15:02:23 Window ahk_id 0x40836 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:02:23 Window ahk_id 0x150668 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:02:23 ====== Running ======
+2020-11-19 15:02:35 ====== Cleaning up ======
+2020-11-19 15:02:35 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:02:35 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:02:35 ====== Exiting bug.n ======
+2020-11-19 15:02:47 ====== Initializing ======
+2020-11-19 15:02:47 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:02:47 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 15:02:48 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:02:48 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 15:02:48 Window ahk_id 0x50834 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:02:48 Window ahk_id 0x407c8 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:02:48 Window ahk_id 0x5079e process '' doesn't match expected 'wsl.exe', forgetting this window
+2020-11-19 15:02:48 Window ahk_id 0x507de process '' doesn't match expected 'wsl.exe', forgetting this window
+2020-11-19 15:02:48 ====== Running ======
+2020-11-19 15:03:29 DEBUG[0] Monitor_getWorkArea: #3, l: -3840, r: -2560, t: 0, b: 800.
+2020-11-19 15:03:29 DEBUG[0] Monitor_init: #3, name: \\.\DISPLAY1, x: -3840, y: 12, w: , h: .
+2020-11-19 15:03:44 ====== Cleaning up ======
+2020-11-19 15:03:44 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:03:44 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:03:44 DEBUG[0] Monitor_getWorkArea: #3, l: -3840, r: -2560, t: 0, b: 800.
+2020-11-19 15:03:44 ====== Exiting bug.n ======
+2020-11-19 15:03:44 ====== Initializing ======
+2020-11-19 15:03:45 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:03:45 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 15:03:45 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:03:45 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 15:03:46 DEBUG[0] Monitor_getWorkArea: #3, l: -3840, r: -2560, t: 0, b: 800.
+2020-11-19 15:03:46 DEBUG[0] Monitor_init: #3, name: \\.\DISPLAY1, x: -3840, y: 12, w: , h: .
+2020-11-19 15:03:46 Window ahk_id 0x507aa process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:03:46 Window ahk_id 0x7080a process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:03:46 ====== Running ======
+2020-11-19 15:04:14 ====== Cleaning up ======
+2020-11-19 15:04:14 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:04:14 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:04:14 DEBUG[0] Monitor_getWorkArea: #3, l: -3840, r: -2560, t: 0, b: 800.
+2020-11-19 15:04:14 ====== Exiting bug.n ======
+2020-11-19 15:04:30 ====== Initializing ======
+2020-11-19 15:04:30 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:04:30 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 12, w: , h: .
+2020-11-19 15:04:30 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:04:30 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 12, w: , h: .
+2020-11-19 15:04:31 DEBUG[0] Monitor_getWorkArea: #3, l: -3840, r: -2560, t: 0, b: 800.
+2020-11-19 15:04:31 DEBUG[0] Monitor_init: #3, name: \\.\DISPLAY1, x: -3840, y: 12, w: , h: .
+2020-11-19 15:04:31 Window ahk_id 0xb0714 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:04:31 Window ahk_id 0x40862 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:04:31 Window ahk_id 0xe05e4 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:04:31 Window ahk_id 0x907e6 process '' doesn't match expected 'cmd.exe', forgetting this window
+2020-11-19 15:04:31 Window ahk_id 0x80786 process '' doesn't match expected 'cmd.exe', forgetting this window
+2020-11-19 15:04:31 ====== Running ======
+2020-11-19 15:04:53 ====== Cleaning up ======
+2020-11-19 15:04:53 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:04:53 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:04:53 DEBUG[0] Monitor_getWorkArea: #3, l: -3840, r: -2560, t: 0, b: 800.
+2020-11-19 15:04:53 ====== Exiting bug.n ======
+2020-11-19 15:05:22 ====== Initializing ======
+2020-11-19 15:05:22 DEBUG[0] Monitor_getWorkArea: #1, l: 2880, r: 5760, t: 0, b: 1800.
+2020-11-19 15:05:22 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 2880, y: 12, w: , h: .
+2020-11-19 15:05:23 DEBUG[0] Monitor_getWorkArea: #2, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:05:23 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY1, x: 0, y: 12, w: , h: .
+2020-11-19 15:05:23 View (3, 1) is no longer available (19)
+2020-11-19 15:05:23 View (3, 2) is no longer available (19)
+2020-11-19 15:05:23 View (3, 3) is no longer available (19)
+2020-11-19 15:05:23 View (3, 4) is no longer available (19)
+2020-11-19 15:05:23 View (3, 5) is no longer available (19)
+2020-11-19 15:05:23 View (3, 6) is no longer available (19)
+2020-11-19 15:05:23 View (3, 7) is no longer available (19)
+2020-11-19 15:05:23 View (3, 8) is no longer available (19)
+2020-11-19 15:05:23 View (3, 9) is no longer available (19)
+2020-11-19 15:05:23 Window ahk_id 0x20180 process '' doesn't match expected 'explorer.exe', forgetting this window
+2020-11-19 15:05:23 Window ahk_id 0x607be process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2020-11-19 15:05:23 Window ahk_id 0x6072e process '' doesn't match expected 'explorer.exe', forgetting this window
+2020-11-19 15:05:23 Window ahk_id 0x1404e4 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:05:23 Window ahk_id 0x90858 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:05:23 Window ahk_id 0x707ba process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:05:23 Window ahk_id 0xb077c process '' doesn't match expected 'wsl.exe', forgetting this window
+2020-11-19 15:05:23 ====== Running ======
+2020-11-19 15:06:07 ====== Cleaning up ======
+2020-11-19 15:06:07 DEBUG[0] Monitor_getWorkArea: #1, l: 2880, r: 5760, t: 0, b: 1800.
+2020-11-19 15:06:07 DEBUG[0] Monitor_getWorkArea: #2, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:06:07 ====== Exiting bug.n ======
+2020-11-19 15:11:46 ====== Initializing ======
+2020-11-19 15:11:46 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:11:46 DEBUG[0] Monitor_init: #1, name: \\.\DISPLAY4, x: 0, y: 18, w: , h: .
+2020-11-19 15:11:47 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:11:47 DEBUG[0] Monitor_init: #2, name: \\.\DISPLAY5, x: -1920, y: 18, w: , h: .
+2020-11-19 15:11:47 Window ahk_id 0x206de process '' doesn't match expected 'explorer.exe', forgetting this window
+2020-11-19 15:11:47 Window ahk_id 0x201d8 process '' doesn't match expected 'explorer.exe', forgetting this window
+2020-11-19 15:11:47 Window ahk_id 0x80944 process '' doesn't match expected 'explorer.exe', forgetting this window
+2020-11-19 15:11:47 Window ahk_id 0xe0740 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:11:47 Window ahk_id 0x807c2 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2020-11-19 15:11:47 Window ahk_id 0xa071e process '' doesn't match expected 'wsl.exe', forgetting this window
+2020-11-19 15:11:47 Window ahk_id 0x80510 process '' doesn't match expected 'wsl.exe', forgetting this window
+2020-11-19 15:11:47 Window ahk_id 0xa0796 process '' doesn't match expected 'wsl.exe', forgetting this window
+2020-11-19 15:11:47 Window ahk_id 0x210442 process '' doesn't match expected 'wsl.exe', forgetting this window
+2020-11-19 15:11:47 ====== Running ======
+2020-11-19 15:13:09 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:13:11 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:13:12 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:13:13 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:13:16 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:13:16 DEBUG[0] Monitor_getWorkArea: #2, l: -1920, r: 0, t: 0, b: 1080.
+2020-11-19 15:13:17 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:13:18 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.
+2020-11-19 15:13:19 DEBUG[0] Monitor_getWorkArea: #1, l: 0, r: 1920, t: 0, b: 1200.

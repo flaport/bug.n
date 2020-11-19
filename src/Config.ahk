@@ -49,7 +49,7 @@ Config_init() {
   Config_bbCompatibility := False
   Config_borderWidth     := 0
   Config_borderPadding   := -1
-  Config_showTaskBar     := False
+  Config_showTaskBar     := True
   Config_showBorder      := True
   Config_selBorderColor  := ""
   Config_scalingFactor   := 1   ;; Undocumented. The value is retrieved by `Config_getSystemSettings()` from the registry.
@@ -65,8 +65,8 @@ Config_init() {
   Config_layoutAxis_#1      := 1
   Config_layoutAxis_#2      := 2
   Config_layoutAxis_#3      := 2
-  Config_layoutGapWidth     := 0
-  Config_layoutMFactor      := 0.6
+  Config_layoutGapWidth     := 10
+  Config_layoutMFactor      := 0.5
   Config_areaTraceTimeout   := 1000
   Config_continuouslyTraceAreas := False
   Config_dynamicTiling      := True
@@ -114,7 +114,6 @@ Config_init() {
     Config_showBorder     := True
     Config_selBorderColor := ""
   }
-  
   Config_getSystemSettings()
   Config_initColors()
   Loop, % Config_layoutCount {
@@ -163,7 +162,6 @@ Config_convertSystemColor(systemColor)
 
 Config_edit() {
   Global Config_filePath
-  
   If Not FileExist(Config_filePath)
     Config_UI_saveSession()
   Run, edit %Config_filePath%
@@ -411,65 +409,92 @@ Config_UI_saveSession() {
 }
 
 ;; Key definitions
-;; Window management
-#Down::View_activateWindow(0, +1)
-#Up::View_activateWindow(0, -1)
-#+Down::View_shuffleWindow(0, +1)
-#+Up::View_shuffleWindow(0, -1)
-#+Enter::View_shuffleWindow(1)
-#c::Manager_closeWindow()
-#+d::Window_toggleDecor()
-#+f::View_toggleFloatingWindow()
-#+m::Manager_moveWindow()
-#^m::Manager_minimizeWindow()
-#+s::Manager_sizeWindow()
-#+x::Manager_maximizeWindow()
-#i::Manager_getWindowInfo()
-#+i::Manager_getWindowList()
-!Down::View_moveWindow(0, +1)
-!Up::View_moveWindow(0, -1)
-!+Enter::Manager_maximizeWindow()
-!1::View_moveWindow(1)
-!2::View_moveWindow(2)
-!3::View_moveWindow(3)
-!4::View_moveWindow(4)
-!5::View_moveWindow(5)
-!6::View_moveWindow(6)
-!7::View_moveWindow(7)
-!8::View_moveWindow(8)
-!9::View_moveWindow(9)
-!0::View_moveWindow(10)
-!BackSpace::View_toggleStackArea()
 
-;; Window debugging
-#^i::Debug_logViewWindowList()
-#^+i::Debug_logManagedWindowList()
-#^h::Debug_logHelp()
-#^d::Debug_setLogLevel(0, -1)
-#^+d::Debug_setLogLevel(0, +1)
-
-;; Layout management
-#Tab::View_setLayout(-1)
-#f::View_setLayout(3)
-#m::View_setLayout(2)
-#t::View_setLayout(1)
-#Left::View_setLayoutProperty("MFactor", 0, -0.05)
-#Right::View_setLayoutProperty("MFactor", 0, +0.05)
-#^t::View_setLayoutProperty("Axis", 0, +1, 1)
-#^Enter::View_setLayoutProperty("Axis", 0, +2, 1)
-#^Tab::View_setLayoutProperty("Axis", 0, +1, 2)
-#^+Tab::View_setLayoutProperty("Axis", 0, +1, 3)
-#^Up::View_setLayoutProperty("MY", 0, +1)
-#^Down::View_setLayoutProperty("MY", 0, -1)
-#^Right::View_setLayoutProperty("MX", 0, +1)
-#^Left::View_setLayoutProperty("MX", 0, -1)
-#+Left::View_setLayoutProperty("GapWidth", 0, -2)
-#+Right::View_setLayoutProperty("GapWidth", 0, +2)
-#^Backspace::View_resetTileLayout()
-
-;; View/Tag management
-#+n::View_toggleMargins()
-#BackSpace::Monitor_activateView(-1)
+;; #a:: decrease window alpha
+;; #+a:: increase window alpha
+;; #^a:: restart picom
+#b:: Monitor_toggleBar() ;; toggle top bar
+#+b:: Monitor_toggleTaskBar() ;; toggle bottom (windows) bar
+;; #c:: shift focus to monitor C
+;; #+c:: send selected window to monitor C
+;; #d:: decrease number of windows in master area
+;; #+d:: reload Xresources
+;; #e:: insert emoji
+;; #+e:: insert font awesome glyph
+#f:: View_setLayout(3) ;; floating layout
+#+f:: View_setLayout(2) ;; full screen (monocle) layout
+;; #g:: insert greek letter
+;; #+g:: insert email address
+;; #h:: open in mpv
+#+h::View_setLayoutProperty("MFactor", 0, -0.05)
+;; #i:: increase number of windows in master area
+;; #+i:: open inkscape
+#j::View_activateWindow(0, +1) ;; focus on window lower in stack
+#+j::View_shuffleWindow(0, +1) ;; move current window lower in stack
+#k::View_activateWindow(0, -1) ;; focus on window higher in stack
+#+k::View_shuffleWindow(0, -1) ;; move current window higher in stack
+;; #^k:: password menu
+;; #l:: lock screen (standard windows keybinding)
+#+l::View_setLayoutProperty("MFactor", 0, +0.05)
+;; #m:: mount a drive
+;; #+m:: unmount a drive
+;; #^m:: promote monitor to master monitor
+#n:: Run, explorer.exe ;; open file explorer
+;; #+n:: open vifm
+;; #o:: activate all dwm tags to which selected window belongs
+;; #+o:: make current window 'sticky'
+;; #p:: dmenu choose monitor layout (standard windows keybinding)
+;; #+p:: default screen layout
+;; #^p:: same screen layout
+;; #^+p:: last screen layout
+#q::Manager_closeWindow() ;; close currently open window
+#+q::Reload ;; reload bug.n
+#+^q::ExitApp ;; exit bug.n
+;; #r:: open neomutt
+;; #+r:: run mbsync
+;; #^r:: send email
+;; #^+r:: fix cursor repeat rate
+#s::Bar_toggleCommandGui() ;; application launcher
+;; #+s:: toggle a systemd service
+;; #^s:: reload sxhkd config
+;; #t:: toggle between last two dwm layouts
+#+t::View_setLayout(1) ;; default layout
+;; #u:: insert accented character
+;; #+u:: unmapped
+;; #v:: shift focus to monitor V
+;; #+v:: send selected window to monitor V
+#w:: Run, Firefox
+#+w:: Run, "C:\Users\floris.laporte\AppData\Local\Google\Chrome SxS\Application\chrome.exe"
+;; #^w:: search the web with duckduckgo:
+;; #^+w:: search the web with google:
+;; #x:: shift focus to monitor X
+;; #+x:: send selected window to monitor X
+;; #y:: change global Xresources color scheme
+;; #+y:: change wallpaper (next)
+;; #^y:: change wallpaper (previous)
+;; #^+y:: show wallpaper overview in sxiv
+;; #z:: shift focus to monitor Z
+;; #+z:: send selected window to monitor Z
+#Enter:: Run, cmd, C:\Users\floris.laporte
+#+Enter:: Run, wsl, C:\Users\floris.laporte
+#^Enter:: Run, ipython
+;; #^+Enter:: spawn st terminal
+;; #Equal:: raise volume
+;; #+Equal:: toggle pause / play
+;; #Minus:: lower volume
+;; #+Minus:: toggle mute volume
+#Space::View_shuffleWindow(1)
+;; #+Space:: toggle floating
+;; #^Tab:: swap windows between monitors
+;; #Tab:: toggle between last two active tags (dwm)
+;; #;:: cycle forward through dwm layout list
+;; #+;:: cycle backward through dwm layout list
+#.::Manager_activateMonitor(0, +1) ;; cycle forward through monitors
+#,::Manager_activateMonitor(0, -1) ;; send forward through monitors
+#+.::Manager_setWindowMonitor(0, +1) ;; cycle backward through monitors
+#+,::Manager_setWindowMonitor(0, -1) ;; send backward through monitors
+#^+.::Manager_setViewMonitor(0, +1) ;; send everything to next monitor
+#^+,::Manager_setViewMonitor(0, -1) ;; send everything to previous monitor
 #+0::Monitor_setWindowTag(10)
 #1::Monitor_activateView(1)
 #+1::Monitor_setWindowTag(1)
@@ -498,26 +523,13 @@ Config_UI_saveSession() {
 #9::Monitor_activateView(9)
 #+9::Monitor_setWindowTag(9)
 #^9::Monitor_toggleWindowTag(9)
-~WheelUp::Manager_activateViewByMouse(-1)
-~WheelDown::Manager_activateViewByMouse(+1)
-
-;; Monitor management
-#.::Manager_activateMonitor(0, +1)
-#,::Manager_activateMonitor(0, -1)
-#+.::Manager_setWindowMonitor(0, +1)
-#+,::Manager_setWindowMonitor(0, -1)
-#^+.::Manager_setViewMonitor(0, +1)
-#^+,::Manager_setViewMonitor(0, -1)
-
-;; GUI management
-#+Space::Monitor_toggleBar()
-#Space::Monitor_toggleTaskBar()
-#y::Bar_toggleCommandGui()
-#+y::Monitor_toggleNotifyIconOverflowWindow()
-!+y::View_traceAreas()
-
-;; Administration
-#^e::Config_edit()
-#^s::Config_UI_saveSession()
-#^r::Reload
-#^q::ExitApp
+!1::View_moveWindow(1)
+!2::View_moveWindow(2)
+!3::View_moveWindow(3)
+!4::View_moveWindow(4)
+!5::View_moveWindow(5)
+!6::View_moveWindow(6)
+!7::View_moveWindow(7)
+!8::View_moveWindow(8)
+!9::View_moveWindow(9)
+!0::View_moveWindow(10)
